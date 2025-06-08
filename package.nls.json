@@ -1,0 +1,5 @@
+{
+    "extension.displayName": "Generate Clangd Configs",
+    "extension.description": "Generate clangd config files to the workspace root.",
+    "command.generate.title": "Generate Config Files to Workspace Root"
+}

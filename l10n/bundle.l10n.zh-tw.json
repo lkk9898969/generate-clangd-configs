@@ -1,0 +1,6 @@
+{
+    "Please open a folder (Workspace) before running this command.": "請先開啟一個資料夾或工作區後再執行此指令。",
+    "File {0} already exists in the workspace root, skipping.": "檔案 {0} 已存在於工作區根目錄，將略過。",
+    "Clangd config files were successfully generated to the workspace root!": "Clangd 設定檔已成功產生到工作區根目錄！",
+    "An error occurred while generating files. See the debug console for details.": "產生設定檔時發生錯誤，請查看「偵錯主控台」獲取詳細資訊。"
+}

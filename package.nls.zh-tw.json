@@ -1,0 +1,5 @@
+{
+    "extension.displayName": "產生 Clangd 設定檔",
+    "extension.description": "於工作區根目錄產生Clangd設定檔。",
+    "command.generate.title": "於工作區根目錄產生Clangd設定檔"
+}
