@@ -43,5 +43,9 @@
   "dependencies": {
     "@vscode/l10n": "^0.0.10"
   },
-  "l10n": "./l10n"
+  "l10n": "./l10n",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lkk9898969/generate-clangd-configs.git"
+  }
 }
